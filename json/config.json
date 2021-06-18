@@ -1,0 +1,11 @@
+{
+	"prefix": ";",
+	"token": "YOUR BOT TOKEN", 
+	"tgg": "TRACKER.GG API",
+	"ow": "OPEN WEATHER API",
+	"bly": "BIT.LY API",
+	"cak": "CURRENCY CONVERTER API",
+	"lovecalc": "LOVE CALCULATOR API",
+	"sapi": "STEAM API KEY",
+	"connectionString": "YOUR MONGODB CONNECTION STRING"
+}
